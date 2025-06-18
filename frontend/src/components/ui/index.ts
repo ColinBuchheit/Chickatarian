@@ -18,6 +18,3 @@ export type {
   CardContentProps,
   CardFooterProps
 } from './Card';
-
-export { default as Input, Textarea } from './Input';
-export type { InputProps, TextareaProps } from './Input';

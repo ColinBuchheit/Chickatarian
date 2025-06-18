@@ -11,11 +11,11 @@
 /* Base Styles */
 @layer base {
   * {
-    @apply border-border;
+    @apply border-neutral-200;
   }
   
   body {
-    @apply bg-background text-foreground;
+    @apply bg-neutral-50 text-neutral-900;
     font-feature-settings: "rlig" 1, "calt" 1;
   }
   
